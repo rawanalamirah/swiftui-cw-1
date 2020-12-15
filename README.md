@@ -7,8 +7,8 @@
 
 
 ## التمرين الأول
-قم بعمل برنامج ذِكر كما هو موضح،. \
-<img width="358" alt="Screen Shot 2020-12-16 at 1 30 42 AM" src="https://user-images.githubusercontent.com/8784343/102280521-5914f500-3f3e-11eb-9f3a-3a29d210d42f.png">
+قم بعمل برنامج ذِكر والذي يعرض ذكر من الأذكار في المنتصف \
+<img width="300" alt="ThekrAppImage" src="https://user-images.githubusercontent.com/8784343/102280521-5914f500-3f3e-11eb-9f3a-3a29d210d42f.png">
 
 حمل المرفقات هنا \
 <a href="https://user-images.githubusercontent.com/8784343/102280076-86ad6e80-3f3d-11eb-87c1-c6d59b121c01.png"> Header</a> \
