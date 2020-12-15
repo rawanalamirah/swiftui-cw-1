@@ -41,8 +41,12 @@ Image("kaaba")
     .frame(width: 30, height: 30)
     .scaledToFit()
 ```
+
 <div>
  
+ 
 ### !بونص 
-- 
+- [استعمل خطوط خارجية](https://medium.com/better-programming/swiftui-basics-importing-custom-fonts-b6396d17424d)
+- [](https://medium.com/better-programming/swiftui-basics-importing-custom-fonts-b6396d17424d)
+
 </div>
