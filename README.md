@@ -18,9 +18,27 @@
 
 
 ## التمرين الثاني
-قم بعمل برنامج مواقيت الصلاة كالتالي: 
+قم بعمل برنامج مواقيت الصلاة والذي يعرض أوقات الصلوات الخمس بشكل أنيق كالتالي: \
+أضف الأسهم من SF Symbols \ 
+اسماء الصور \
+- chevron.left
+- chevron.right
+- gear 
+
+<img width="300" alt="PrayerTimesapp" src="https://user-images.githubusercontent.com/8784343/102280905-07209f00-3f3f-11eb-959d-2329217631c1.png"> \
+حمل المرفقات هنا \
 <a href="https://user-images.githubusercontent.com/8784343/102280064-83b27e00-3f3d-11eb-932a-2f95817bc898.png"> Kaaba Icon<a>
 
-### !بونص 
+حجم صورة الكعبة 30x30 
+بعد إدراج صورة الكعبة إلى Assets يمكنك استعمال هذا الكود 
 
+```Swift
+Image("kaaba")
+    .resizable()
+    .renderingMode(.template)
+    .frame(width: 30, height: 30)
+    .scaledToFit()
+```
+### !بونص 
+- 
 </div>
