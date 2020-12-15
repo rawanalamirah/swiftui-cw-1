@@ -32,6 +32,7 @@
 حجم صورة الكعبة 30x30 
 بعد إدراج صورة الكعبة إلى Assets يمكنك استعمال هذا الكود 
 
+<div dir="ltr">
 ```Swift
 Image("kaaba")
     .resizable()
@@ -39,6 +40,8 @@ Image("kaaba")
     .frame(width: 30, height: 30)
     .scaledToFit()
 ```
+<div>
+ 
 ### !بونص 
 - 
 </div>
