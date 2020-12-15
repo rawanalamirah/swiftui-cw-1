@@ -48,7 +48,7 @@ Image("kaaba")
 </div>
  
  
-### !بونص 
+### بونص 🎁 
 - [استعمل خطوط خارجية](https://medium.com/better-programming/swiftui-basics-importing-custom-fonts-b6396d17424d)
 
 
