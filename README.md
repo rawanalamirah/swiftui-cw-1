@@ -1,6 +1,6 @@
 <div dir="rtl">
  
-<img width="412" alt="Screen Shot 2020-12-18 at 4 47 08 AM" src="https://user-images.githubusercontent.com/8784343/102701975-2cc6e480-426e-11eb-886b-7cb44bfd8579.png">
+<img width="300" alt="Screen Shot 2020-12-18 at 4 47 08 AM" src="https://user-images.githubusercontent.com/8784343/102701975-2cc6e480-426e-11eb-886b-7cb44bfd8579.png">
 
 #  تمرين - 1
 ## حول تصميمك إلى كود! 
